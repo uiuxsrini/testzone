@@ -1,6 +1,7 @@
 # Site settings
 title: The Remote Lab 
 email: hello@theremotelab.com
+baseurl: '/testzone'
 description: We're on a mission to make DevOps hassle-free.
 url: "http://theremotelab.me" # the base hostname & protocol for your site
 twitter_username: viren
