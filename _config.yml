@@ -2,6 +2,7 @@
 title: The Remote Lab 
 email: hello@theremotelab.com
 description: We're on a mission to make DevOps hassle-free.
+baseurl: "/testzone"
 url: "http://theremotelab.me" # the base hostname & protocol for your site
 twitter_username: viren
 paginate: 3
